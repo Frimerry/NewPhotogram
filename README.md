@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# NewPhotogram
-portfolio
-=======
 # 포토그램
 
 ### 테스트 계정
@@ -16,7 +12,7 @@ portfolio
 - MariaDB
 - Spring Security
 - Spring Web
-- oauth2-client
+- oauth2-client(google)
 - AWS EC2
 - AWS Elastic Beanstalk
 
@@ -28,4 +24,3 @@ portfolio
 - 댓글 작성, 댓글 삭제
 - 좋아요, 좋아요 취소
 - 구독, 구독 취소
->>>>>>> 9a1ef75 (포트폴리오 배포용)
