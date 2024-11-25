@@ -4,6 +4,8 @@ http://photo-plat-env.eba-j39pmver.ap-northeast-2.elasticbeanstalk.com/
 
 PC환경에서 확인 부탁드립니다.
 모바일 환경에서 정상동작하지 않을 수 있습니다.
+- 모바일 환경 수정중
+- https(SSL인증서) 수정중
 
 ### 테스트 계정
 1. id : test1 / pw : 1234
